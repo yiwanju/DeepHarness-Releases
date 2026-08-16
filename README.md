@@ -1,6 +1,6 @@
 # DeepHarness
 
-DeepHarness 把 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 的 Web 界面封装成 Windows 桌面客户端。**无需安装任何开发环境**（不用装 Node、不用装 dsh），双击即可使用。
+DeepHarness 把 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 的 Web 界面封装成 Windows 桌面客户端。**无需安装任何开发环境**（不用装 Node、不用装 dsh），安装后双击即可使用。
 
 ## 系统要求
 
@@ -8,16 +8,9 @@ DeepHarness 把 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harne
 
 ## 下载与安装
 
-### 方式一：安装版（推荐）
-
-1. 在右侧 **Releases** 下载 `DeepHarness-Setup-0.1.0.exe`
+1. 在右侧 **Releases** 下载最新版 `DeepHarness-Setup-*.exe`
 2. 双击运行，按提示完成安装
 3. 从开始菜单或桌面快捷方式启动 **DeepHarness**
-
-### 方式二：绿色版（免安装）
-
-1. 下载 `DeepHarness-0.1.0.exe`
-2. 双击即可运行
 
 > 首次启动需要初始化，可能需要 1~2 分钟，请耐心等待窗口弹出。
 
