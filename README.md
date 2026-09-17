@@ -1,6 +1,6 @@
 # DeepHarness
 
-DeepHarness 把 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 的 Web 界面封装成 Windows 桌面客户端。**无需安装任何开发环境**（不用装 Node、不用装 dsh），安装后双击即可使用。
+DeepHarness 把 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 的 Web 界面封装成 Windows 桌面客户端。**无需安装任何开发环境**（不用装 Node、不用装 dsh），具备执行询问、通知能力。安装后双击即可使用。
 
 ## 系统要求
 
