@@ -11,7 +11,7 @@ DeepHarness 把 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harne
 1. 在右侧 **Releases** 下载最新版 `DeepHarness-Setup-*.exe`
 2. 双击运行，按提示完成安装
 3. 从开始菜单或桌面快捷方式启动 **DeepHarness**
-4. [下载最新版](https://github.com/yiwanju/DeepHarness-Releases/releases/tag/v0.1.10/DeepHarness-Setup-0.1.10.exe)
+4. [下载最新版](https://github.com/yiwanju/DeepHarness-Releases/releases/download/v0.1.10/DeepHarness-Setup-0.1.10.exe)
 
 > 首次启动需要初始化，可能需要 1~2 分钟，请耐心等待窗口弹出。
 
